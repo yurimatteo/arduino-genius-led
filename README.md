@@ -13,3 +13,4 @@ Meu primeiro projeto arduino de verdade onde demonstro como fazer um jogo Genius
 ## Para executar
 
 ## Demonstração
+![arduino](https://github.com/yurimatteo/arduino-genius-led/blob/main/images/IMG_20220824_202232057.jpg)
